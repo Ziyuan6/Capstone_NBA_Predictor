@@ -49,7 +49,7 @@ In Conclusion, the final model had a pretty solid performance predicting how far
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./NLP_twitter_sentimental_analysis.ipynb) or our [presentation](./Twitter_NLP_Presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./NBA_PLAYOFF_PREDICTOR.ipynb) or our [presentation](./Capstone_Final_Ziyuan.pdf).
 
 For any additional questions, please contact **Ziyuan Wang & zywang1994@gmail.com**
 
@@ -57,13 +57,13 @@ For any additional questions, please contact **Ziyuan Wang & zywang1994@gmail.co
 
 ```
 ├── README.md                                                     <- The top-level README for reviewers of this project
-├── NLP_twitter_sentimental_analysis.ipynb                        <- Narrative documentation of analysis in Jupyter notebook
-├── Twitter_NLP_Presentation.pdf                                  <- PDF version of project presentation
+├── NBA_PLAYOFF_PREDICTOR.ipynb                                   <- Narrative documentation of analysis in Jupyter notebook
+├── Capstone_Final_Ziyuan.pdf                                     <- PDF version of project presentation
 └── Images                                                        <- images folder used for project
 └── Data                                                          <- data folder used for this project
-└── Scratch_code                                                  <- Processed_notebook folder used for this project
+└── Notebooks                                                     <- Processed_notebook folder used for this project
 ```
->>>>>>> 3552b24ecd7f38439c350ce72fe59d4dbf7230a2
+
 
 
 have a good day
