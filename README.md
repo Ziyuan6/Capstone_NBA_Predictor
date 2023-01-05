@@ -27,11 +27,11 @@ Data were collected through espn and basketball reference.com and saved as csv f
 
 ## Results
 
-![graph2](./Images/accurancy_score.png)
+![graph2](./Images/P.png)
 
 This graph shows how good the model predicts different results of the season. It's pretty obvious that the model predict teams who will not the playoff very good. At the same time, it could predict 50% right about who will win the champ. For situation teams who lost in 1st through 4th round, the correct prediction percentage were not that high, because the match up was predicted randomly through the model. But no matter which team lost in throughout the playoff, best team has a higher chance to win the title in a seven game seires. That's the biggest reason the model had 50%correction about predicting the champion.
 
-![graph3](./Images/prediction_rounds_new.png)
+![graph3](./Images/A.png)
 
 The best score for final model is 65.55% which was a hugh improvement from the score form baseline model(48.55%). The difference is pretty obvious as shown from the graph. Accuracy for the final model 15% higher than Baseline dummy model. 65% accurancy looked not that good, but considering the high uncertainty for basketball, for example, injury always happened randomly; shooting touch can't be always good even you are the best shooting in the world,this is a pretty descent result.
 
